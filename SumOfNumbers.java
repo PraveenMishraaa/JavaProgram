@@ -14,8 +14,7 @@ public class SumOfNumbers
             }
             sum = sum(x, y, z);  
             System.out.println("The sum of three numbers x, y, and z is: " + sum);  
-            System.out.println("The sum of three numbers x, y, and z is: " + sum);
-            System.out.println("The sum of three numbers x, y, and z is: " + sum);
+
         }  
         public static int sum(int a, int b, int c)  
         {  
